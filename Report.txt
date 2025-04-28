@@ -1,6 +1,6 @@
 Name:Arturo
 
-Number of elements:
+Number of elements:10000
 
 Bubble Sort
 Sorted:
