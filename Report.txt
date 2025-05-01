@@ -3,29 +3,29 @@ Name:Arturo
 Number of elements:10000
 
 Bubble Sort
-Sorted:
-Reversed:
-Random:
+Sorted: 3.86628 seconds
+Reversed: 8.45988 seconds
+Random: 7.16563 seconds
 
 Bubble Sort Early Exit
-Sorted:
-Reversed:
-Random:
+Sorted: 0.00052 seconds
+Reversed: 5.80820 seconds
+Random: 4.74166 seconds
 
 Selection Sort
-Sorted:
-Reversed:
-Random:
+Sorted:1.80237 seconds
+Reversed: 1.91167 seconds
+Random: 1.94260 seconds
 
 Insertion Sort
-Sorted:
-Reversed:
-Random:
+Sorted: 0.00089 seconds
+Reversed: 3.68937 seconds
+Random: 2.01754 seconds
 
 Merge Sort
-Sorted:
-Reversed:
-Random:
+Sorted: 0.01800 seconds
+Reversed: 0.01604 seconds
+Random: 0.02030 seconds
 
 Questions to answer:
 1) What was the worst case scenario for any sorting technique?
@@ -38,7 +38,7 @@ Questions to answer:
 
 
 4) The built-in sorting technique for most programming languages is known as TimSort.
-This is a merge sort until the arrays have fewer than 10 elements, then it does an insertion sort. Why would this be useful?
+This is a merge sort until the arrays have fewer than 10 elements, then it does an insertion sort. Why would this be useful?    
 
 
 5) What issues can you see with a recursive sorting technique like merge sort?
